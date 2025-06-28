@@ -15,7 +15,7 @@ class QuestXMLApp:
         # Compact color scheme
         self.colors = {
             'primary': '#2c3e50',
-            'secondary': '#3498db', 
+            'secondary': '#2c3e50', 
             'success': '#27ae60',
             'warning': '#f39c12',
             'danger': '#e74c3c',
